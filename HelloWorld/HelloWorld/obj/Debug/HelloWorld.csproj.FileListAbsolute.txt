@@ -1,6 +1,5 @@
 C:\Users\Михаил\Desktop\LearnGit\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\Users\Михаил\Desktop\LearnGit\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 C:\Users\Михаил\Desktop\LearnGit\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\Михаил\Desktop\LearnGit\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\Михаил\Desktop\LearnGit\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Михаил\Desktop\LearnGit\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
